@@ -1,0 +1,6 @@
+{
+  "name": "Mood Archive",
+  "description": "An elegant film-camera visual diary and digital archiving platform for students to capture atmospheres, emotions, and places.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
